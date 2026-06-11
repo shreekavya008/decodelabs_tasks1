@@ -14,10 +14,10 @@ intent matching. This is the foundation project demonstrating deterministic AI l
 ## Folder Structure
 
 rule-based-chatbot/
-── chatbot.py       # Main engine: loop, sanitization, response logic
-── responses.py     # Knowledge base: dictionary of 15+ intents
-── README.md        # Project documentation
-── .gitignore       # Files to exclude from Git
+── chatbot.py       # Main engine: loop, sanitization, response logic.
+── responses.py     # Knowledge base: dictionary of 15+ intents.
+── README.md        # Project documentation.
+── .gitignore       # Files to exclude from Git.
 
 ## Author
 Built as part of the DecodeLabs AI Industrial Training — Batch 2026.
