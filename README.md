@@ -14,15 +14,10 @@ intent matching. This is the foundation project demonstrating deterministic AI l
 ## Folder Structure
 ```
 chatbot/
-
 │
-
 ├── chatbot.py       # Main engine: loop, sanitization, response logic
-
 ├── responses.py     # Knowledge base: dictionary of 15+ intents
-
 ├── README.md        # Project documentation
-
 └── .gitignore       # Files to exclude from Git
 
 ```
